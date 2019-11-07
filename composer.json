@@ -1,0 +1,19 @@
+{
+    "name": "dev-int/hyp-conn-design",
+    "description": "Design of hyper-connexion.fr site",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laurent Quétier",
+            "email": "info@developpement-interessant.com"
+        }
+    ],
+    "require": {
+        "fortawesome/font-awesome": "^5.11"
+    },
+    "require-dev": {
+        "twitter/bootstrap": "^3.4"
+    },
+    "minimum-stability": "stable"
+}
