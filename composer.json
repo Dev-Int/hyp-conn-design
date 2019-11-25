@@ -13,7 +13,7 @@
         "fortawesome/font-awesome": "^5.11"
     },
     "require-dev": {
-        "twitter/bootstrap": "^3.4"
+        "twbs/bootstrap": "^4.3"
     },
     "minimum-stability": "stable"
 }
